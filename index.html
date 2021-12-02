@@ -3,10 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
-    <!-- <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
-    <meta http-equiv="X-Content-Security-Policy" content="default-src 'self'; script-src 'self'"> -->
-    <title>Hello World!</title>
+    <title>Audio Visualizer!</title>
     <style>
         body {
             padding: 0;
@@ -15,12 +12,9 @@
     </style>
 </head>
 
-<body>
-    <div id="canvas_placeholder">
-
-    </div>
+<body style="-webkit-app-region: drag">
 </body>
-<script src="./p5.min.js"></script>
-<script src="./sketch.js"></script>
-
+    <script src="./p5.min.js"></script>
+    <script src="./p5.sound.js"></script>
+    <script src="./sketch.js"></script>
 </html>
