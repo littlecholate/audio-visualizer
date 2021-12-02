@@ -17,4 +17,5 @@ Then run following commands:
 ## Problem
 
 Currently the project needs to enable Stereo Mix ([How to enable Stereo Mix in Win10](https://www.howtogeek.com/howto/39532/how-to-enable-stereo-mix-in-windows-7-to-record-audio/)) to get the speaker's audio.
-I have searched for solutions but still cannot find how to get the speaker's audio in other way, if you have any idea please let me know, thanks.
+I have searched for solutions but still cannot find how to get the speaker's audio in another way.
+If you have any idea please let me know, thanks.
